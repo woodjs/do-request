@@ -1,0 +1,27 @@
+{
+  "name": "do-request",
+  "version": "0.0.1",
+  "description": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.72.0",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodjs/do-request.git"
+  },
+  "keywords": [
+    "do-request"
+  ],
+  "author": "bugong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodjs/do-request/issues"
+  },
+  "homepage": "https://github.com/woodjs/do-request#readme"
+}
