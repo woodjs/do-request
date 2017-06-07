@@ -1,5 +1,3 @@
-"use strict";
-
 exports.createRequestOptions = function (opts) {
 
   let options = {};

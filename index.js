@@ -1,7 +1,5 @@
-"use strict";
-
-let utils = require('./lib/utils');
-let request = require('./lib/request');
+let utils = require('./src/utils');
+let request = require('./src/request');
 
 
 function doRequest(opts, callback) {

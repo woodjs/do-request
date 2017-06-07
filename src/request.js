@@ -1,5 +1,3 @@
-"use strict";
-
 let fs = require('fs');
 let request = require('request');
 let utils = require('./utils');
